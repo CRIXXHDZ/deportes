@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,88,121,1) 53%, rgba(0,212,255,1) 100%);
+}
+/*font-family: 'Bebas Neue', cursive;*/
+header{
+    background-color: rgb(34, 34, 95);
+    color: white;
+    text-align: center;
+    margin: 10px 10px;
+    padding: 15px 15px;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 15px;
+
+}
+#deporte{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(254, 254, 254);
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 20px;
+
+}
+section{
+    height: 1000px;
+}
+.articulo1{
+    background-color: rgba(0, 0, 0, 0);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+
+.articulo2{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+    width: 300px;
+    float: left;
+}
+.article3{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+}
+footer{
+    margin: 18px;
+    background-color: rgb(29, 29, 105);
+    color: white;
+border-radius: 12px;
+}
+.articulo4{
+    text-align: center;
+}
